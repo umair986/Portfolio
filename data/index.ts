@@ -82,9 +82,9 @@ export const projects = [
     id: 2,
     title: "Character Recognition",
     des: "A simple Character Reconition software to detect hand written characters using ML and Neural Network.",
-    img: "/p2.svg",
+    img: "/char_recog.svg",
     iconLists: ["/ml.png", "/sql.svg", "/ai.svg", "/stream.svg", "/c.svg"],
-    link: "/ui.yoom.com",
+    link: "github.com/umair986/character-recognization",
   },
   {
     id: 3,
