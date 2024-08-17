@@ -75,7 +75,7 @@ export const projects = [
     title: "Bikers without Helmet Detection",
     des: "Detecting License Plate of Bike riders without Helmet and recording/storing their Number Plate digits.",
     img: "/bike.jpg",
-    iconLists: ["/ml.png", "/sql.svg", "/AI.svg", "/three.svg", "/fm.svg"],
+    iconLists: ["/ml.png", "/sql.svg", "/ai.svg", "/three.svg", "/fm.svg"],
     link: "github.com/umair986/bikers_without_helmet",
   },
   {
@@ -83,7 +83,7 @@ export const projects = [
     title: "Character Recognition",
     des: "A simple Character Reconition software to detect hand written characters using ML and Neural Network.",
     img: "/p2.svg",
-    iconLists: ["/ml.png", "/sql.svg", "/ts.svg", "/stream.svg", "/c.svg"],
+    iconLists: ["/ml.png", "/sql.svg", "/ai.svg", "/stream.svg", "/c.svg"],
     link: "/ui.yoom.com",
   },
   {
